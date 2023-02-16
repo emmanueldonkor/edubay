@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me !](https://github.com/emmanueldonkor/educational-website)
-- Live Site URL: [Click Me !](https://dulcet-melba-b01ea8.netlify.app/)
+- Solution URL: [Click Me !](https://github.com/emmanueldonkor/edubay)
+- Live Site URL: [Click Me !](http://https://edubay1.vercel.app/)
 
 ### Built with
 
