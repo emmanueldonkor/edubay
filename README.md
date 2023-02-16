@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Me !](https://github.com/emmanueldonkor/edubay)
-- Live Site URL: [Click Me !](https://edubay1.vercel.app/)
+- Live Site URL: [Click Me !](edubay1.vercel.app)
 
 ### Built with
 
