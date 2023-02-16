@@ -1,6 +1,6 @@
 # Educational Website
 
-Edubay is an educational e-learning  website page 
+Edubay is an educational e-learning website page
 
 ## Table of contents
 
@@ -22,13 +22,11 @@ Users should be able to:
 - Send message through contact form
 - Enrol in a course
 
-### Screenshot
+### Screenshots
 
-![](./Screenshot1.png)
-![](./Screenshot2.png)
-![](./Screenshot3.png)
-
-
+![](./screenshot1.png)
+<![](./screenshot2.png)
+![](./screenshot3.png)
 
 ### Links
 
@@ -41,16 +39,11 @@ Users should be able to:
 - CSS
 - Formspree
 - Animations
-  
 
 ## Author
 
 - Website - [Emmanuel Donkor](https://github.com/emmanueldonkor/educational-website)
 - LinkedIn- [EmmDonkor](https://www.linkedin.com/in/donkor-emmanuel-56b05b219/)
-
-
-
-
 
 # Getting Started with Create React App
 
