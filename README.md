@@ -1,3 +1,57 @@
+# Educational Website
+
+Edubay is an educational e-learning  website page 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- Navigate to various sections
+- Send message through contact form
+- Enrol in a course
+
+### Screenshot
+
+![](./Screenshot1.png)
+![](./Screenshot2.png)
+![](./Screenshot3.png)
+
+
+
+### Links
+
+- Solution URL: [Click Me !](https://github.com/emmanueldonkor/educational-website)
+- Live Site URL: [Click Me !](https://dulcet-melba-b01ea8.netlify.app/)
+
+### Built with
+
+- ReactJS
+- CSS
+- Formspree
+- Animations
+  
+
+## Author
+
+- Website - [Emmanuel Donkor](https://github.com/emmanueldonkor/educational-website)
+- LinkedIn- [EmmDonkor](https://www.linkedin.com/in/donkor-emmanuel-56b05b219/)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
