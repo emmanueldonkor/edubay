@@ -19,7 +19,7 @@ export default function Courses()  {
                
                 className="btn btn-primary"
               >
-                Enrol
+                Enroll
               </a>
             </div>
           </article>

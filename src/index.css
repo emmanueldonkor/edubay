@@ -37,7 +37,9 @@ body {
   color: var(--color-white);
   background: var(--color-bg);
 }
-
+html{
+  scroll-behavior: smooth;
+}
 .container {
   width: var(--container-width-lg);
   margin: 0 auto;
